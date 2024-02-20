@@ -28,3 +28,5 @@
 ---
 
 *Thank you to anyone who has contributed to the open source community!*
+
+*感谢所有对开源社区做出贡献的人们！*
