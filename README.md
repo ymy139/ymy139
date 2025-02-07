@@ -1,3 +1,5 @@
+<!-- 这个文件就是一坨屎山，不要借鉴 -->
+
 # Hi there 👋
 - 🌱 I’m a student in Zhengzhou NO.2 Junior High School (Zhengzhou, Henan, China)
 - 📫 How to reach me: you can [email me](mailto:ymy213456@163.com) , and you also can contact me at 182223232 on QQ
