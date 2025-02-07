@@ -2,7 +2,7 @@
 
 # Hi there 👋
 - 🌱 I’m a student in Zhengzhou NO.2 Junior High School (Zhengzhou, Henan, China)
-- 📫 How to reach me: you can [email me](mailto:ymy213456@163.com) , and you also can contact me at 182223232 on QQ
+- 📫 How to reach me: you can [email me](mailto:ymy213456@163.com)
 > [!TIP]
 > My English is not very good, so please try to communicate with me in Chinese as much as possible
 
