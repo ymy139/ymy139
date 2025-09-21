@@ -40,9 +40,3 @@
 
 ——[如何正确理解开源精神？-知乎](https://www.zhihu.com/question/383024084)
 </div>
-
----
-
-*Thank you to anyone who has contributed to the open source community!*
-
-*感谢所有对开源社区做出贡献的人们！*
