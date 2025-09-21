@@ -6,25 +6,23 @@
 > [!TIP]
 > My English is not very good, so please try to communicate with me in Chinese as much as possible
 
-<div align="center">
-  
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-five-16.vercel.app/api?username=ymy139&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-        <img align="center" src="https://github-readme-stats-eta-five-16.vercel.app/api?username=ymy139&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></img>
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-five-16.vercel.app/api/top-langs/?username=ymy139&layout=compact&hide_border=true&langs_count=12&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-        <img align="center" src="https://github-readme-stats-eta-five-16.vercel.app/api/top-langs/?username=ymy139&layout=compact&hide_border=true&langs_count=12&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></img>
-      </picture>
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="border: none;">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-five-16.vercel.app/api?username=ymy139&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+          <img align="center" src="https://github-readme-stats-eta-five-16.vercel.app/api?username=ymy139&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></img>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-five-16.vercel.app/api/top-langs/?username=ymy139&layout=compact&hide_border=true&langs_count=12&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+          <img align="center" src="https://github-readme-stats-eta-five-16.vercel.app/api/top-langs/?username=ymy139&layout=compact&hide_border=true&langs_count=12&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></img>
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
